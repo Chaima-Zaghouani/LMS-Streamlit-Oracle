@@ -32,7 +32,7 @@ LMS-Streamlit-Oracle/
 ├── .gitignore
 ├── reports/
 │   ├── LMS_Report_Project_DB_Complet.pdf
-│   └── LMS_Extended_Report_APA.pdf
+│   └── LMS_Extended_Report.pdf
 │
 ├── code/
 │   ├── best_script_app.py
