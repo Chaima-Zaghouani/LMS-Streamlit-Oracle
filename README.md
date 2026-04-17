@@ -35,7 +35,7 @@ LMS-Streamlit-Oracle/
 │   └── Extended_Report_Project_DB_Chaima_Zaghouani.pdf
 │
 ├── code/
-│   ├── best_script_app.py
+│   ├── app.py
 │   └── requirements.txt
 │
 ├── screenshots/
@@ -48,7 +48,7 @@ LMS-Streamlit-Oracle/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/LMS-Streamlit-Oracle.git
+git clone https://github.com/Chaima-Zaghouani/LMS-Streamlit-Oracle.git
 cd LMS-Streamlit-Oracle
 ```
 
@@ -61,7 +61,7 @@ pip install -r code/requirements.txt
 
 ### 3. Run the Application
 ```bash
-streamlit run code/best_script_app.py
+streamlit run code/app.py
 ```
 
 The application will open in your browser.
